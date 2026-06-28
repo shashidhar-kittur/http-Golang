@@ -1,3 +1,2 @@
-module github.com/shashidhar-kittur/API-Health-Check
-
+module github.com/shashidhar-kittur/http-Golang
 go 1.25.5
